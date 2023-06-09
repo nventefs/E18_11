@@ -1,0 +1,16 @@
+.LM2937ES-3.3_NOPB :1 ;500mA,3.3V,LDO Voltage Reg.,LM2937ES-3.3
+TO254P1435X464-4N
+*STM IC
+*NGS
+*PLB 1="INPUT" 2="GND" 3="OUTPUT" 4="TAB"
+*MXP 4
+*DFN LM2937ES-3.3_NOPB
+~!Mouser Part Number (926-LM2937ES-3.3NOPB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2937ES-33-NOPB/?qs=X1J7HmVL2ZHutqWEheHOAw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LM2937ES-3.3/NOPB)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100036522.pdf)
+~!Height (4.64mm)
+~!3D_Model (LM2937ES-3.3_NOPB)
+LM2937ES-3.3_NOPB
+1.1!I 2.1!G 3.1!Y 4.1!U 

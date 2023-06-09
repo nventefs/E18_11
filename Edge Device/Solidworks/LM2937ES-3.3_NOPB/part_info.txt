@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM2937ES-3.3/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=TO-XXX (Inc. DPAK)
+PinCount=4
+Version=1.1
+Released=2015-10-22 07:02:36
+Downloaded=2023-06-02 18:45:43
+3D=Y

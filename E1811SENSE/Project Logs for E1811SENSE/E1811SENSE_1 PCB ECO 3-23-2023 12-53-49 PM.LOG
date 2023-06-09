@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=+VBUS Pin=C21-2
+Removed Pin From Net: NetName=MCU_USB_D_P Pin=D5-1
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=MCU_USB_D_N Pin=D5-3
+Removed Pin From Net: NetName=USB_D_N Pin=D5-4
+Removed Pin From Net: NetName=+VBUS Pin=D5-5
+Removed Pin From Net: NetName=USB_D_P Pin=D5-6
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=R15-2
+Removed Member From Class: ClassName=E1811SENSE_1 Member=C21
+Removed Member From Class: ClassName=E1811SENSE_1 Member=D5
+Removed Member From Class: ClassName=E1811SENSE_1 Member=R14
+Removed Member From Class: ClassName=E1811SENSE_1 Member=R15
+Added Component: Designator=C1(CAP_0603)
+Add component (AddParameter): Name = "LCSC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_0402)
+Add component (AddParameter): Name = "LCSC"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL05B104KO5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=U1(USON-8-2X3MM)
+Add component (AddParameter): Name = "LCSC"; Value = "C2843335"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Winbond"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "W25Q16JVUXIQ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+VCC_SPI Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+VCC_SPI Pin=C9-2
+Added Pin To Net: NetName=SPI_NCS Pin=U1-1
+Added Pin To Net: NetName=SPI_DO Pin=U1-2
+Added Pin To Net: NetName=SPI_NWP Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=SPI_DI Pin=U1-5
+Added Pin To Net: NetName=SPI_CLK Pin=U1-6
+Added Pin To Net: NetName=SPI_NHLD Pin=U1-7
+Added Pin To Net: NetName=+VCC_SPI Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=USB_A5 Pin=J1-A5
+Added Pin To Net: NetName=USB_A5 Pin=J2-A5
+Added Pin To Net: NetName=USB_A5 Pin=R9-1
+Added Net: Name=USB_A5
+Added Pin To Net: NetName=USB_B5 Pin=J1-B5
+Added Pin To Net: NetName=USB_B5 Pin=J2-B5
+Added Pin To Net: NetName=USB_B5 Pin=R8-1
+Added Net: Name=USB_B5
+Added Member To Class: ClassName=E1811SENSE_1 Member=Component C1 10u
+Added Member To Class: ClassName=E1811SENSE_1 Member=Component C9 100n
+Added Member To Class: ClassName=E1811SENSE_1 Member=Component U1 W25Q16JVUXIQ

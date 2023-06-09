@@ -1,0 +1,109 @@
+Added Component: Designator=J5(61301511121)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/cad/1737268.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/cad/1737268.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.236inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61301511121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.82000, 10=0.69700, 25=0.58120, 50=0.48400, 100=0.44000, 500=0.40000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "961"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-5326-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(WS2812)
+Added Component: Designator=LED2(WS2812)
+Added Component: Designator=LED3(WS2812)
+Added Component: Designator=LED4(WS2812)
+Added Component: Designator=LED5(WS2812)
+Added Component: Designator=LED6(WS2812)
+Added Component: Designator=LVR1(173010542)
+Added Component: Designator=SW1(PTS645SL50-2 LFS)
+Added Component: Designator=U2(ESP8266NODEMCU)
+Added Pin To Net: NetName=NetJ4_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ4_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ4_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ4_4 Pin=J5-4
+Added Pin To Net: NetName=NetJ4_5 Pin=J5-5
+Added Pin To Net: NetName=NetJ4_6 Pin=J5-6
+Added Pin To Net: NetName=GND Pin=J5-11
+Added Pin To Net: NetName=GND Pin=J5-12
+Added Pin To Net: NetName=NetJ5_13 Pin=J5-13
+Added Pin To Net: NetName=VCC Pin=J5-14
+Added Pin To Net: NetName=VCC Pin=J5-15
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetJ6_2 Pin=LED1-2
+Added Pin To Net: NetName=NetC4_2 Pin=LED1-3
+Added Pin To Net: NetName=VCC Pin=LED1-5
+Added Pin To Net: NetName=GND Pin=LED1-6
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED2-2
+Added Pin To Net: NetName=NetC5_2 Pin=LED2-3
+Added Pin To Net: NetName=VCC Pin=LED2-5
+Added Pin To Net: NetName=GND Pin=LED2-6
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED3-2
+Added Pin To Net: NetName=NetC6_2 Pin=LED3-3
+Added Pin To Net: NetName=VCC Pin=LED3-5
+Added Pin To Net: NetName=GND Pin=LED3-6
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED4-2
+Added Pin To Net: NetName=NetC7_2 Pin=LED4-3
+Added Pin To Net: NetName=VCC Pin=LED4-5
+Added Pin To Net: NetName=GND Pin=LED4-6
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED5-2
+Added Pin To Net: NetName=NetC8_2 Pin=LED5-3
+Added Pin To Net: NetName=VCC Pin=LED5-5
+Added Pin To Net: NetName=GND Pin=LED5-6
+Added Pin To Net: NetName=NetLED5_1 Pin=LED6-2
+Added Pin To Net: NetName=NetC9_2 Pin=LED6-3
+Added Pin To Net: NetName=VCC Pin=LED6-5
+Added Pin To Net: NetName=GND Pin=LED6-6
+Added Pin To Net: NetName=VCC Pin=LVR1-2
+Added Pin To Net: NetName=GND Pin=LVR1-3
+Added Pin To Net: NetName=GND Pin=LVR1-3
+Added Pin To Net: NetName=VCC Pin=SW1-1
+Added Pin To Net: NetName=NetJ6_3 Pin=SW1-3
+Added Pin To Net: NetName=NetJ5_13 Pin=U2-4
+Added Pin To Net: NetName=NetJ6_3 Pin=U2-5
+Added Pin To Net: NetName=VCC Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-14
+Added Pin To Net: NetName=VCC Pin=U2-16
+Added Pin To Net: NetName=NetJ4_1 Pin=U2-20
+Added Pin To Net: NetName=NetJ4_2 Pin=U2-21
+Added Pin To Net: NetName=NetJ4_3 Pin=U2-22
+Added Pin To Net: NetName=NetJ4_4 Pin=U2-23
+Added Pin To Net: NetName=GND Pin=U2-24
+Added Pin To Net: NetName=VCC Pin=U2-25
+Added Pin To Net: NetName=NetJ4_6 Pin=U2-27
+Added Pin To Net: NetName=NetJ4_5 Pin=U2-28
+Added Pin To Net: NetName=NetJ6_2 Pin=U2-29
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=L1-2
+Added Net: Name=NetC3_1
+Added Member To Class: ClassName=Sheet1 Member=Component J5 61301511121
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED3 WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED4 WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED5 WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LED6 WS2812
+Added Member To Class: ClassName=Sheet1 Member=Component LVR1 173010542
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 PTS645SL50-2 LFS
+Added Member To Class: ClassName=Sheet1 Member=Component U2 ESP8266MOD

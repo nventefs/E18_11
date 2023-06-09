@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [E1811SENSE.PrjPcb]
+   Generated File[E1811SENSE_1-RoundHoles.TXT]
+   Generated File[E1811SENSE_1-SlotHoles.TXT]
+   Generated File[E1811SENSE_1-RectHoles.TXT]
+   Generated File[E1811SENSE_1.LDP]
+   Generated File[E1811SENSE_1.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 3:36:06 PM On 3/24/2023

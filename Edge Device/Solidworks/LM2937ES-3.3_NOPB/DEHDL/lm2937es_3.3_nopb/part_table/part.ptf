@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM2937ES_3.3_NOPB'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LM2937ES-3.3/NOPB" (!) = "", "TO254P1435X464-4N", "TO-XXX (Inc. DPAK)", "926-LM2937ES-3.3NOPB", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2937ES-33-NOPB/?qs=X1J7HmVL2ZHutqWEheHOAw%3D%3D", "500mA,3.3V,LDO Voltage Reg.,LM2937ES-3.3", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100036522.pdf", "4.64 mm"
+END_PART
+
+END.

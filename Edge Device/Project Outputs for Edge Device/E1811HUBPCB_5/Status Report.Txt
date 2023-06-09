@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Edge Device.PrjPcb]
+   Generated File[E1811HUBPCB_5-RoundHoles.TXT]
+   Generated File[E1811HUBPCB_5-SlotHoles.TXT]
+   Generated File[E1811HUBPCB_5.LDP]
+   Generated File[E1811HUBPCB_5.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 2:15:00 PM On 12/3/2021

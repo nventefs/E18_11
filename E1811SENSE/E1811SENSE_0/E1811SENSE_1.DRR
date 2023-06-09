@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: E1811SENSE_1.PcbDoc   3/24/2023  3:36:06 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : E1811SENSE_1-RoundHoles.TXT
+ASCII SlotHoles File : E1811SENSE_1-SlotHoles.TXT
+ASCII RectHoles File : E1811SENSE_1-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             9         PTH        0.39inch (10.00mm)
+T2      10mil (0.254mm)                                           Round             58        PTH        9.51inch (241.68mm)
+T3      22mil (0.55mm)                                            Slot              8         PTH        2.24inch (56.93mm)
+T4      30mil (0.75mm)                                            Rectangle         2         PTH        0.96inch (24.31mm)
+T5      24mil (0.6mm)                                             Round             2         NPTH       0.23inch (5.80mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              79
+
+Two holes at same point : 2
+-----------------------
+579,1382
+351,1382
+
+Total Processing Time (hh:mm:ss) : 00:00:00

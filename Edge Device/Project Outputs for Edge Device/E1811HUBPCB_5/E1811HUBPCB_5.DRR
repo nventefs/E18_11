@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: E1811HUBPCB_5.PcbDoc   12/3/2021  2:15:00 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : E1811HUBPCB_5-RoundHoles.TXT
+ASCII SlotHoles File : E1811HUBPCB_5-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             2         PTH        0.05inch (1.27mm)
+T2      28mil (0.711mm)                                           Round             6         PTH        4.63inch (117.52mm)
+T3      30mil (0.762mm)                                           Round             15        PTH        1.40inch (35.56mm)
+T4      43mil (1.1mm)                                             Round             20        PTH        3.75inch (95.32mm)
+T5      51mil (1.3mm)                                             Round             12        PTH        4.03inch (102.24mm)
+T6      120mil (3.048mm)                                          Round             3         PTH        3.38inch (85.88mm)
+T7      125mil (3.175mm)                                          Slot              1         PTH        0.50inch (12.70mm)
+T8      189mil (4.8mm)                                            Round             3         PTH        1.63inch (41.53mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              62
+
+Total Processing Time (hh:mm:ss) : 00:00:00

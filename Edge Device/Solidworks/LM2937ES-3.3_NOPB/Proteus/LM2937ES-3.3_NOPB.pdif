@@ -1,0 +1,160 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LM2937ES-3.3_NOPB"
+   (description "500mA,3.3V,LDO Voltage Reg.,LM2937ES-3.3")
+   (family "ANA")
+   (package "TO254P1435X464-4N")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100036522.pdf")
+   (attribute "Geometry.Height" "4.64mm")
+   (attribute "Mouser Part Number" "926-LM2937ES-3.3NOPB")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2937ES-33-NOPB/?qs=X1J7HmVL2ZHutqWEheHOAw%3D%3D")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "LM2937ES-3.3/NOPB")
+   (gate
+    (symbol "LM2937ES-3.3_NOPB")
+    (pin "INPUT" 1 IP)
+    (pin "GND" 2 PP)
+    (pin "OUTPUT" 3 OP)
+    (pin "TAB" 4 PS)
+   )
+  )
+  (symbol "LM2937ES-3.3_NOPB"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TO254P1435X464-4N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.001)
+     (path
+      (closed true)
+      (pt -4.38 -4.445)
+      (pt 6.03 -4.445)
+      (pt 6.03 4.445)
+      (pt -4.38 4.445)
+      (pt -4.38 -4.445))))
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -7.85 -4.75)
+      (pt 7.85 -4.75)
+      (pt 7.85 4.75)
+      (pt -7.85 4.75)
+      (pt -7.85 -4.75))))
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (circle
+      (pt -0.35 0) (pt 0.35 0)
+     )
+    )
+   )
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed false)
+      (pt 0 -0.5)
+      (pt 0 0.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed false)
+      (pt -0.5 0)
+      (pt 0.5 0))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.255 -4.32)
+      (pt 5.905 -4.32)
+      (pt 5.905 4.32)
+      (pt -4.255 4.32)
+      (pt -4.255 -4.32))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 5.905 -4.32)
+      (pt 6.324 -4.32)
+      (pt 7.175 -3.377)
+      (pt 7.175 3.377)
+      (pt 6.324 4.32)
+      (pt 5.905 4.32))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0.35 -4.3)
+      (pt -4.45 -4.3)
+      (pt -4.45 4.3)
+      (pt 0.35 4.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.25)
+     (circle
+      (pt -7.475 3.6) (pt -7.225 3.6)
+     )
+    )
+   )
+   (leg 1 (pt -6.2 2.54) (padstack 0))
+   (leg 2 (pt -6.2 0) (padstack 0))
+   (leg 3 (pt -6.2 -2.54) (padstack 0))
+   (leg 4 (pt 4.15 0) (padstack 4))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.05 2.8 0 0 0))
+   )
+   (padstack 4
+    (plated false)
+    (pad (layer TCOP) (rectf 6.85 8.95 0 0 90))
+   )
+   (model "LM2937ES-3.3_NOPB.stp"
+    (euler 0 0 -90)
+    (offset 1.690000057220459 0 0)
+   )
+  )
+ )
+)

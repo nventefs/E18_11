@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2937ES-3.3_NOPB
+D 500mA,3.3V,LDO Voltage Reg.,LM2937ES-3.3
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100036522.pdf
+$ENDCMP
+#
+#End Doc Library

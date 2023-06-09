@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: E20XXEDGEPCB1.PcbDoc   7/6/2021  4:23:53 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : E20XXEDGEPCB1-RoundHoles.TXT
+ASCII SlotHoles File : E20XXEDGEPCB1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T2      30mil (0.762mm)                                           Round             21        PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Round             2         PTH        0.00inch (0.00mm)
+T4      43mil (1.1mm)                                             Round             20        PTH        0.00inch (0.00mm)
+T5      51mil (1.3mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T6      120mil (3.048mm)                                          Round             2         PTH        0.00inch (0.00mm)
+T7      125mil (3.175mm)                                          Slot              1         PTH        0.00inch (0.00mm)
+T8      189mil (4.8mm)                                            Round             3         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              62
+
+Total Processing Time (hh:mm:ss) : 00:00:00

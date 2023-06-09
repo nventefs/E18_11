@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Edge Device.PrjPcb]
+   Generated File[E20XXEDGEPCBA1.TXT]
+   Generated File[E20XXEDGEPCBA1.LDP]
+   Generated File[E20XXEDGEPCBA1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:13:07 PM On 2/19/2021

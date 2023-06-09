@@ -1,0 +1,6 @@
+Added Component: Designator=PSU1(IRM-02-3.3)
+Added Pin To Net: NetName=NetPSU1_1 Pin=PSU1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=PSU1-2
+Added Pin To Net: NetName=GND Pin=PSU1-3
+Added Pin To Net: NetName=VCC Pin=PSU1-4
+Added Member To Class: ClassName=Sheet1 Member=Component PSU1 IRM-02-3.3

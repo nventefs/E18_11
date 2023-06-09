@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+3V3 Pin=R3-1
+Removed Pin From Net: NetName=+3V3 Pin=R4-1
+Removed Member From Class: ClassName=E1811SENSE_1 Member=R1
+Removed Member From Class: ClassName=E1811SENSE_1 Member=R3
+Removed Member From Class: ClassName=E1811SENSE_1 Member=R4
+Added Component: Designator=J2(TYPE-C-31-M-12)
+Add component (AddParameter): Name = "LCSC"; Value = "C165948"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Koren Hroparts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-A1B12
+Added Pin To Net: NetName=+VBUS Pin=J2-A4B9
+Added Pin To Net: NetName=USB_A5 Pin=J2-A5
+Added Pin To Net: NetName=USB_D_P Pin=J2-A6
+Added Pin To Net: NetName=USB_D_N Pin=J2-A7
+Added Pin To Net: NetName=GND Pin=J2-B1A12
+Added Pin To Net: NetName=+VBUS Pin=J2-B4A9
+Added Pin To Net: NetName=USB_B5 Pin=J2-B5
+Added Pin To Net: NetName=USB_D_P Pin=J2-B6
+Added Pin To Net: NetName=USB_D_N Pin=J2-B7
+Added Member To Class: ClassName=E1811SENSE_1 Member=Component J2 TYPE-C-31-M-12

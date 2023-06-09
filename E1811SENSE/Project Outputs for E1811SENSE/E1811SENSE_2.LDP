@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\e1176752\Documents\Altium\Projects\E1811SENSE\E1811SENSE_2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=e1811sense_2-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=e1811sense_2-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=e1811sense_2-rectholes.txt|DrillLayers=gtl,g1,g2,gbl
